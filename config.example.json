@@ -1,0 +1,17 @@
+{
+    "servers": [
+        {
+            "id": "main",
+            "address": "cfx.re/join/abc123",
+            "channelId": "123456789012345678",
+            "discord": "https://discord.gg/yourserver",
+            "alerts": {
+                "channelId": "123456789012345678",
+                "roleId": "123456789012345678"
+            }
+        }
+    ],
+    "guildId": "123456789012345678",
+    "interval": 60,
+    "failuresBeforeOffline": 3
+}
